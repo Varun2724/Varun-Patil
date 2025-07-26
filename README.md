@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/@varun_patil_27" target="blank"><img src="https://img.shields.io/twitter/follow/@varun_patil_27?logo=twitter&style=for-the-badge" alt="@varun_patil_27" /></a> </p>
 
-- 🌱 I’m currently learning **DSA and development**
+- 🌱 I’m currently learning **DSA with Development**
 
 - 💬 Ask me about **java SQL**
 
